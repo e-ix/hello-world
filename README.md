@@ -1,2 +1,2 @@
 # hello-world
-For testing Git and GitHub
+Additional testing as not sure about different Git commands and want to try them out without damaging a current repository.
